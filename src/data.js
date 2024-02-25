@@ -1,0 +1,10 @@
+export const data=[{"record_id":1,"teacher_name":"Conrad Alexander","teacher_id":10001,"department":"Finance","student":"20","status":"Active"},
+{"record_id":2,"teacher_name":"Marcelo Cruz","teacher_id":10002,"department":"Engineer","student":"20","status":"Inactive"},
+{"record_id":3,"teacher_name":"Bing Manalo","teacher_id":10003,"department":"Arts","student":"16","status":"Blocked"},
+{"record_id":4,"teacher_name":"Abby Andrews","teacher_id":10004,"department":"Finance","student":"10","status":"Active"},
+{"record_id":5,"teacher_name":"Conrad Alexander","teacher_id":10005,"department":"Engineer","student":"20","status":"Active"},
+{"record_id":6,"teacher_name":"Marcelo Cruz","teacher_id":10006,"department":"Arts","student":"20","status":"suspended"},
+{"record_id":7,"teacher_name":"Bing Manaio","teacher_id":10007,"department":"Arts","student":"16","status":"Active"},
+{"record_id":8,"teacher_name":"Abby Andrews","teacher_id":10008,"department":"Finance","student":"10","status":"Active"},
+{"record_id":9,"teacher_name":"Conrad Alexander","teacher_id":10009,"department":"Engineer","student":"20","status":"Inactive"},
+{"record_id":10,"teacher_name":"Marcelo Cruz","teacher_id":10010,"department":"Arts","student":"20","status":"Inactive"}]
